@@ -2,7 +2,7 @@
 
 Learn how to integrate Redpanda with Debezium for Change Data Capture (CDC) in MongoDB.
 
-Follow along with [this tutorial on the Redpanda blog](https://redpanda.com/blog/) to put this demo into action. 
+Follow along with [this tutorial on the Redpanda blog](https://redpanda.com/blog/change-data-capture-mongoDB-debezium) to put this demo into action. 
 
 -------------
 
